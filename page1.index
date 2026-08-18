@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Where Did the Days of the Week Come From?</title>
+
+    <style>
+        /* Universal Selector */
+        * {
+            box-sizing: border-box;
+            font-family: Arial;
+        }
+
+        /* Element Selector */
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        /* ID Selector */
+        #important {
+            background-color: lightblue;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <center>
+        <h1>Where Did the Days of the Week Come From?</h1>
+        <p>A short look at the history behind the names of our days.</p>
+    </center>
+
+    <hr>
+
+    <h2>How Did They Get Their Names?</h2>
+
+    <p>
+        The names of the seven days come from a mix of ancient Roman
+        and Germanic traditions. People connected different days with
+        the Sun, Moon, planets, and gods.
+    </p>
+
+    <div id="important">
+        <h2>The Days of the Week</h2>
+
+        <p>
+            <b>Sunday</b> came from the Sun, while <b>Monday</b> came from
+            the Moon. <b>Tuesday</b> was connected to the Norse god Tyr,
+            and <b>Wednesday</b> was connected to Odin or Woden.
+        </p>
+
+        <p>
+            <b>Thursday</b> was named after Thor, and <b>Friday</b> was
+            connected to the goddess Frigg. <b>Saturday</b> came from
+            Saturn, a Roman god.
+        </p>
+    </div>
+
+    <hr>
+
+    <h2>Was There One Person Who Invented Them?</h2>
+
+    <p>
+        No. The names were not invented by one person. They developed
+        over a very long time as different cultures influenced each other.
+        The names we use today are the result of those old traditions.
+    </p>
+
+    <hr>
+
+    <center>
+        <p><b>Fun Fact:</b> The seven-day week has been used for thousands of years!</p>
+    </center>
+
+</body>
+</html>
